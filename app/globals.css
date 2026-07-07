@@ -23,6 +23,12 @@ body {
   font-family: Inter, Arial, sans-serif;
 }
 
+button,
+input,
+textarea {
+  font: inherit;
+}
+
 .swipe-feed {
   height: 100dvh;
   overflow-y: auto;
